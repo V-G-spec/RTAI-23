@@ -1,0 +1,7 @@
+/.idea/
+/__pycache__/
+*.pyc
+
+# Specific file
+code/conv_to_lin.py
+.vscode
