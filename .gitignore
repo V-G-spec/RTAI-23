@@ -5,3 +5,7 @@
 # Specific file
 code/conv_to_lin.py
 .vscode
+
+# Tests from RTAI evals
+preliminary_evaluation_test_cases/
+test_cases/
